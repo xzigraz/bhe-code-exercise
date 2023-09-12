@@ -13,7 +13,7 @@ Stub code has been provided in Go, C#, and Javascript. Please use the language t
   - Go: `go test ./...`
   - C#: `dotnet test Sieve.Tests`
   - Javascript: `npm run test`
-- Your solution is committed to this projects `main` branch, no uncommitted changes or untracked files please.
+- Your solution is committed to this project's `main` branch, no uncommitted changes or untracked files please.
 
 ### Considerations
 
