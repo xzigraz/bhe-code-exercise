@@ -1,16 +1,19 @@
-# Staff Services Software Engineer Coding Exercise
+# Services Software Engineer Coding Exercise
 
 ## The Sieve of Eratosthenes
 
-Prime numbers have many modern day applications and a long history in mathematics. Utilizing your own resources research the sieve of Eratosthenes, an algorithm for generating prime numbers. Based on your research, implement an API in `pkg/sieve/sieve.go` that allows the caller to retrieve the Nth prime number.
-Some stub code and a test suite have been provided as a convenience, however, you are encouraged to deviate from Eratosthenes's algorithm, modify the existing functions/methods or anything else that might showcase your ability provided the following requirements are satisfied. 
+Prime numbers have many modern day applications and a long history in mathematics. Utilizing your own resources research the sieve of Eratosthenes, an algorithm for generating prime numbers. Based on your research, implement an API that allows the caller to retrieve the Nth prime number.
+Some stub code and a test suite have been provided as a convenience, however, you are encouraged to deviate from Eratosthenes's algorithm, modify the existing functions/methods or anything else that might showcase your ability provided the following requirements are satisfied.
+Stub code has been provided in Go, C#, and Javascript. Please use the language that is most appropriate based on your own skillset
 
 ### Requirements
 
-- A url to a publically accessible `git` repository (GitHub, GitLab, self-hosted, etc) of the completed exercise must be given to your coordinator at least 24 hours in advance of the technical interview
-- Interviewers must be able to clone the repository via `git clone` 
-- Interviewers must be able to execute a suite of tests via `go test ./...`
-- The go library package provides an API for retrieving the Nth prime number using 0-based indexing where the 0th prime number is 2
+- The library package provides an API for retrieving the Nth prime number using 0-based indexing where the 0th prime number is 2
+- Interviewers must be able to execute a suite of tests
+  - Go: `go test ./...`
+  - C#: `dotnet test Sieve.Tests`
+  - Javascript: `npm run test`
+- Your solution is committed to this projects `main` branch, no uncommitted changes or untracked files please.
 
 ### Considerations
 
