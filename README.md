@@ -1,4 +1,4 @@
-# Services Software Engineer Coding Exercise
+# BHE Software Engineer Coding Exercise
 
 ## The Sieve of Eratosthenes
 
