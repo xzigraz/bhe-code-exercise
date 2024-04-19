@@ -8,16 +8,18 @@ Stub code has been provided in Go, C#, and Javascript. Please use the language t
 
 ### Requirements
 
+- Fork this repo to implement your solution
 - The library package provides an API for retrieving the Nth prime number using 0-based indexing where the 0th prime number is 2
 - Interviewers must be able to execute a suite of tests
   - Go: `go test ./...`
   - C#: `dotnet test Sieve.Tests`
   - Javascript: `npm run test`
-- Your solution is committed to this project's `main` branch, no uncommitted changes or untracked files please.
+- Your solution is committed to your project's `main` branch, no uncommitted changes or untracked files please
+- Submit the link to your public fork for review
 
 ### Considerations
 
-During the technical interview, your submission will be discussed and you will be evaluated in the following areas:
+During the technical interview, your submission will be discussed, and you will be evaluated in the following areas:
 
 - Technical ability
 - Communication skills
