@@ -17,7 +17,6 @@ func TestNthPrime(t *testing.T) {
 	assert.Equal(t, int64(7793), sieve.NthPrime(986))
 	assert.Equal(t, int64(17393), sieve.NthPrime(2000))
 	assert.Equal(t, int64(15485867), sieve.NthPrime(1000000))
-	assert.Equal(t, int64(15485867), sieve.NthPrime(1000000))
 	assert.Equal(t, int64(179424691), sieve.NthPrime(10000000))
 	//assert.Equal(t, int64(2038074751), sieve.NthPrime(100000000))
 }

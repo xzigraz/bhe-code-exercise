@@ -11,9 +11,10 @@ you are encouraged to deviate from Eratosthenes's algorithm, modify the
 existing functions/methods or anything else that might showcase your ability 
 provided the following requirements are satisfied.
 
-Stub code has been provided in Go, C#, and Javascript. Please choose from one
-of the provided language stubs that is most appropriate based on your own
-skill set and the position you are applying for.
+You must author your work in either Go, JavaScript/TypeScript, or C# - all 
+other language submissions will be rejected. Stub code has been provided so 
+please choose from one of the provided language stubs that is most 
+appropriate based on your own skill set and the position you are applying for.
 
 ### Requirements
 
